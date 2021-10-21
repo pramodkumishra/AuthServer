@@ -1,0 +1,15 @@
+C:\PROJECT_M1042421\project_vs_core\AuthServer\AuthServer.Application\obj\Debug\net5.0\AuthServer.Application.csprojAssemblyReference.cache
+C:\PROJECT_M1042421\project_vs_core\AuthServer\AuthServer.Application\obj\Debug\net5.0\AuthServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECT_M1042421\project_vs_core\AuthServer\AuthServer.Application\obj\Debug\net5.0\AuthServer.Application.AssemblyInfoInputs.cache
+C:\PROJECT_M1042421\project_vs_core\AuthServer\AuthServer.Application\obj\Debug\net5.0\AuthServer.Application.AssemblyInfo.cs
+C:\PROJECT_M1042421\project_vs_core\AuthServer\AuthServer.Application\obj\Debug\net5.0\AuthServer.Application.csproj.CoreCompileInputs.cache
+C:\PROJECT_M1042421\project_vs_core\AuthServer\AuthServer.Application\bin\Debug\net5.0\AuthServer.Application.deps.json
+C:\PROJECT_M1042421\project_vs_core\AuthServer\AuthServer.Application\bin\Debug\net5.0\AuthServer.Application.dll
+C:\PROJECT_M1042421\project_vs_core\AuthServer\AuthServer.Application\bin\Debug\net5.0\ref\AuthServer.Application.dll
+C:\PROJECT_M1042421\project_vs_core\AuthServer\AuthServer.Application\bin\Debug\net5.0\AuthServer.Application.pdb
+C:\PROJECT_M1042421\project_vs_core\AuthServer\AuthServer.Application\obj\Debug\net5.0\AuthServer.Application.dll
+C:\PROJECT_M1042421\project_vs_core\AuthServer\AuthServer.Application\obj\Debug\net5.0\ref\AuthServer.Application.dll
+C:\PROJECT_M1042421\project_vs_core\AuthServer\AuthServer.Application\obj\Debug\net5.0\AuthServer.Application.pdb
+C:\PROJECT_M1042421\project_vs_core\AuthServer\AuthServer.Application\bin\Debug\net5.0\AuthServer.Core.dll
+C:\PROJECT_M1042421\project_vs_core\AuthServer\AuthServer.Application\bin\Debug\net5.0\AuthServer.Core.pdb
+C:\PROJECT_M1042421\project_vs_core\AuthServer\AuthServer.Application\obj\Debug\net5.0\AuthServer.Application.csproj.CopyComplete
